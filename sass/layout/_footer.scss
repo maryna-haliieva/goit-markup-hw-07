@@ -1,0 +1,41 @@
+.footer-background {
+    background-color: var(--backgroung-hero-footer);
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+.footer-container {
+  display: flex;
+  align-items: baseline;
+}
+
+.footer-blocks:not(:first-child) {
+  margin-left: 70px;
+}
+
+.footer-adress-container {
+  margin-top: 20px;
+}
+
+.footer-adress__list:not(:last-child) {
+  margin-bottom: 9px;
+}
+
+.address-list__link {
+  color: var(--backgroung-main-color);
+  line-height: 2;
+}
+.footer-adress__link {
+  color: var(--footer-adress-transparent);
+}
+
+.footer-to-join {
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 1,14;
+  color: var(--backgroung-main-color);
+}
+  
+  
+
+  

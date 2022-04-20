@@ -1,0 +1,18 @@
+.logo {
+    margin-right: 93px;
+    align-self: center;
+  
+    font-family: var(--font-family-secondary);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+  
+    color: var(--accent-color);
+  }
+.logo__header-color {
+  color: var(--logo-header-color);
+}
+
+.logo__footer-color {
+  color: var(--backgroung-main-color);
+}
